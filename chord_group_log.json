@@ -1,0 +1,10 @@
+{
+    "Sample Group": {
+        "chords": [
+            "MajorACagedShape",
+            "MinorGCagedShape",
+            "MinorECagedShape",
+            "MinorDCagedShape"
+        ]
+    }
+}
